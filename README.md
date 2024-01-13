@@ -48,7 +48,7 @@ https://github.com/shhutc18/Logo-Maker
 ## Walkthrough
 
 Please watch this video for a brief tutorial on how to use this application. 
-<!-- Add link to screen video -->
+https://drive.google.com/file/d/1Hy9JJKblqC6yQ5ewpQqXsyXmXdd5G0ud/view
 
 ## Questions
 
